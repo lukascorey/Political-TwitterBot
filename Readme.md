@@ -1,0 +1,1 @@
+Program goes into a twitter user and responds to tweets (previously not responded to) from @FreedoniaNews expressing certain political opinions. Uses Tweepy for authorization, to fetch tweets, and to respond. Uses Vader for sentiment analysis. 
